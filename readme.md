@@ -1,5 +1,7 @@
 # News collector Application Documentation
 
+![alt text](diagram.png)
+
 This application divided into microservices provides real-time news updates from various rss feeds based on topic (ex. technology, markets)
 
 ## Microservices
