@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+
+    "typeRoots": ["src/types", "node_modules/@types"]
+  },
+  "include": ["**/*.ts"]
+}
